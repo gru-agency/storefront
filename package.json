@@ -29,7 +29,7 @@
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/eslint-parser": "^7.15.0",
-    "@babel/runtime-corejs3": "^7.15.3",
+    "@babel/runtime-corejs3": "^7.16.0",
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
     "@nuxtjs/eslint-config": "^6.0.1",
